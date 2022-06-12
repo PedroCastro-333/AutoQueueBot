@@ -118,4 +118,4 @@ try:
 except KeyboardInterrupt:
     print('O bot foi parado pelo usuário')
     print('\n')
-#
+c
