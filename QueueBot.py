@@ -109,7 +109,7 @@ def main():
         banir()
         sleep(2)
         pickar()
-
+#oi
 
 try:
     while True:
